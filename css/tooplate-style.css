@@ -124,7 +124,6 @@ b, strong {
   line-height: inherit;
   display: block;
   opacity: 0;
-  overflow: hidden;
   position: absolute;
   top: 0;
   right: 0;
